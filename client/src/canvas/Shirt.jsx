@@ -27,7 +27,7 @@ function Shirt() {
             material-roughness={1}
             dispose={null}      
         >
-            {snap.isFullTecture && (
+            {snap.isFullTexture && (
                 <Decal
                     position={[0, 0, 0]}
                     rotation={[0, 0, 0]}
